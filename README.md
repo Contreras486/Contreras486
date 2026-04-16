@@ -16,6 +16,4 @@ Desarrollador Full Stack con formación en JavaScript, React, Python, SQL y JWT.
 ## 🌐 Redes sociales:
 
 ```bash
-git clone https://github.com/usuario/proyecto.git
-cd proyecto
-npm install
+
