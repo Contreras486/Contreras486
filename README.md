@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Contreras486/Contreras486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 Sobre mí:
 
-Here are some ideas to get you started:
+Desarrollador Full Stack con formación en JavaScript, React, Python, SQL y JWT. La trayectoria previa en soporte técnico y análisis de datos ha permitido consolidar una alta atención al detalle y una capacidad analítica orientada a la resolución de problemas técnicos complejos. Enfoque en el desarrollo de soluciones escalables, seguras y centradas en la experiencia del usuario.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologías
+- Python
+- React
+- JWT
+- HTML
+- CSS
+- JavaScript
+- Flask / etc.
+
+## 🌐 Redes sociales:
+
+```bash
+git clone https://github.com/usuario/proyecto.git
+cd proyecto
+npm install
