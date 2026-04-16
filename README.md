@@ -15,5 +15,5 @@ Desarrollador Full Stack con formación en JavaScript, React, Python, SQL y JWT.
 
 ## 🌐 Redes sociales:
 
-```bash
+LinkedIn
 
